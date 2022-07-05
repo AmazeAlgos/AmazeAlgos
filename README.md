@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmazeAlgos
 - 👀 I’m interested in Algo Trading with Python
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently working with Python
 - 💞️ I’m looking to collaborate on Algo Strategies and Backtesting
 - 📫 How to reach me ...Telegram: @AmazeAlgos
 
